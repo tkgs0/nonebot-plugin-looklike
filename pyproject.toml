@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot-plugin-looklike"
-version = "0.0.1"
+version = "0.0.2"
 description = "你看我像人吗?"
 authors = ["月ヶ瀬"]
 license = "MIT"
