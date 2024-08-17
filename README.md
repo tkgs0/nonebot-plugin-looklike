@@ -12,7 +12,7 @@ _✨ 你看我像人吗? ✨_
 
 
 <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/owner/nonebot-plugin-looklike.svg" alt="license">
+    <img src="https://img.shields.io/github/license/tkgs0/nonebot-plugin-looklike.svg" alt="license">
 </a>
 <a href="https://pypi.python.org/pypi/nonebot-plugin-looklike">
     <img src="https://img.shields.io/pypi/v/nonebot-plugin-looklike.svg" alt="pypi">
