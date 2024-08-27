@@ -17,7 +17,10 @@ __plugin_meta__ = PluginMetadata(
     usage=usage,
     type="application",
     homepage="https://github.com/tkgs0/nonebot-plugin-looklike",
-    supported_adapters=None
+    supported_adapters=None,
+    extra={
+        "author": "月ヶ瀬"
+    }
 )
 
 
